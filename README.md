@@ -136,13 +136,7 @@ Install \[Maven](https://maven.apache.org/install.html) (if running via CLI)
 
 &nbsp;   ```
 
-
-
 &nbsp;   git clone https://github.com/saiaungzawoo/Mini-CRUD-Library-Program.git
-
-
-
-&nbsp;   
 
 &nbsp;   ```
 
@@ -154,13 +148,7 @@ Install \[Maven](https://maven.apache.org/install.html) (if running via CLI)
 
 &nbsp;   ```
 
-
-
 &nbsp;   cd Mini-CRUD-Library-Program
-
-
-
-&nbsp;   
 
 &nbsp;   ```
 
@@ -172,13 +160,7 @@ Install \[Maven](https://maven.apache.org/install.html) (if running via CLI)
 
 &nbsp;   ```
 
-
-
 &nbsp;   mvn clean compile
-
-
-
-&nbsp;   
 
 &nbsp;   ```
 
@@ -190,13 +172,7 @@ Install \[Maven](https://maven.apache.org/install.html) (if running via CLI)
 
 &nbsp;   ```
 
-
-
 &nbsp;   mvn exec:java -Dexec.mainClass="Main"
-
-
-
-&nbsp;   
 
 &nbsp;   ```
 
