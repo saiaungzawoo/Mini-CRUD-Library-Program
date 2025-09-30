@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Little Prince",
+    "author": "Antoine",
+    "price": 7.6,
+    "id": 2
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "price": 8.7,
+    "id": 3
+  },
+  {
+    "title": "Alice in Wonderland",
+    "author": "Lewis Carroll",
+    "price": 9.9,
+    "id": 6
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "unknown",
+    "price": 2.3,
+    "id": 7
+  },
+  {
+    "title": "Gallant",
+    "author": "V.E. SCHWAB",
+    "price": 8.9,
+    "id": 8
+  }
+]
